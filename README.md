@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidfaya
-- 👀 I’m interested in always playing with new technology
+- 👀 I’m interested in always learning and playing with new technology
 - This is my public repository where I share some projects I am currently working on
 
 
